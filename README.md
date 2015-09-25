@@ -1,5 +1,5 @@
 # Find Image
-A Java-based visual grep for finding 2D images in a larger image. This code was originally designed to automate locating elements in screenshots. For example, finding where a button is rendered. It is also useful for code that is automating interactions with 2D games such as poker or Star Realms. The matching can tell where game elements are on the screen, which then allows for inferring game state and where to simulate clicks.
+A Java-based visual grep for finding 2D images in a larger image. This code was originally designed to automate locating elements in screenshots. For example, finding where a button is rendered. It is also useful for code that is automating interactions with 2D games such as poker or [Star Realms](http://www.starrealms.com). The matching can tell where game elements are on the screen, which then allows for inferring game state and where to simulate clicks.
 
 The code is generally helpful for matching any 2D rastered image against a larger image that contains it.
 
